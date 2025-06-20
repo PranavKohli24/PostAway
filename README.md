@@ -11,3 +11,5 @@ Tecnologies used:- RESTful API, MongoDB, Node.js, Express.js
 • Framed a scalable like system to display post likes, counts, and user details efficiently.
 
 • Added an OTP-based password reset mechanism using Nodemailer for enhanced account security
+
+• Documented the entire API with Swagger UI, ensuring clear, and developer-friendly API exploration and testing.
